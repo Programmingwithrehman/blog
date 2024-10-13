@@ -1,7 +1,7 @@
-title: Programming with Rehman Blog
-description: A blog for sharing knowledge about programming.
-baseurl: "" # Leave empty
-url: "https://programmingwithrehman.github.io/blog" # Update with your site URL
+title: "Programming with Rehman Blog"
+description: "A blog for sharing programming knowledge."
+baseurl: ""  # Leave this empty for now
+url: "https://programmingwithrehman.github.io/blog"  # Your GitHub Pages URL
 
-# Remove date from URL
+# Permalink configuration
 permalink: /:title/

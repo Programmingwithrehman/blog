@@ -1,7 +1,5 @@
-title: "Programming with Rehman Blog"
-description: "A blog for sharing programming knowledge."
-baseurl: ""  # Leave this empty for now
-url: "https://programmingwithrehman.github.io/blog"  # Your GitHub Pages URL
-
-# Permalink configuration
-permalink: /:title/
+title: My Blog
+description: A blog about programming and freelancing
+baseurl: "" # Use this if your site is a project page
+url: "https://programmingwithrehman.github.io"
+theme: minima # or any other theme you prefer

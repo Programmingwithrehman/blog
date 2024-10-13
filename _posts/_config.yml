@@ -1,7 +1,0 @@
-title: "who-im"
-description: "A blog for sharing programming knowledge."
-baseurl: "" # Leave this empty
-url: "https://programmingwithrehman.github.io/blog" # Replace with your site URL
-
-# Remove date from URLs
-permalink: /:title/

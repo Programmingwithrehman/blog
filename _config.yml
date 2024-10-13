@@ -1,0 +1,7 @@
+title: Programming with Rehman Blog
+description: A blog for sharing knowledge about programming.
+baseurl: "" # Leave empty
+url: "https://programmingwithrehman.github.io/blog" # Update with your site URL
+
+# Remove date from URL
+permalink: /:title/
